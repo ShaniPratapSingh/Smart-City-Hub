@@ -1,4 +1,4 @@
-echo "# Smart City Hub 🚀
+## Smart City Hub 🚀
 
 A web application for managing city services and citizen complaints using modern frontend technologies.
 
